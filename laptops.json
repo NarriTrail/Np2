@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "image":"https://rukminim1.flixcart.com/image/832/832/kuwzssw0/computer/x/l/a/redmibook-15-pro-thin-and-light-laptop-redmi-original-imag7xhnakyazyma.jpeg?q=70",
+        "title":"RedmiBook Pro",
+        "desc":"This is a new model",
+        "price":"38,990/-"
+    },
+    {
+        "id":2,
+        "image":"https://rukminim1.flixcart.com/image/832/832/keaaavk0/computer/c/q/t/lenovo-na-thin-and-light-laptop-original-imafuzt873zgp9xe.jpeg?q=70",
+        "title":"Leneovo IdeaPad3",
+        "desc":"This is a new model",
+        "price":"33,990/-"
+    },
+    {
+        "id":3,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/computer/e/1/7/-original-imag3ebnzawky4kn.jpeg?q=70",
+        "title":"ASUS VivoBook 15",
+        "desc":"This is a new model",
+        "price":"32,990/-"
+    },
+    {
+        "id":4,
+        "image":"https://rukminim1.flixcart.com/image/832/832/l5h2xe80/computer/h/i/p/14s-dy5005tu-thin-and-light-laptop-hp-original-imagg4rc7n75zqkp.jpeg?q=70",
+        "title":"HP 14s Intel Core i3",
+        "desc":"This is a new model",
+        "price":"35,490/-"
+    },
+    {
+        "id":5,
+        "image":"https://rukminim1.flixcart.com/image/832/832/khdqnbk0/computer/f/y/t/apple-original-imafxfyq6x3yhzxg.jpeg?q=70",
+        "title":"APPLE 2020 MacBook Air M1",
+        "desc":"This is a new model",
+        "price":"86,990/-"
+    },
+    {
+        "id":6,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/computer/c/i/6/-original-imaghkkcbrhfwm7j.jpeg?q=70",
+        "title":"DELL Vostro Core i3",
+        "desc":"This is a new model",
+        "price":"37,990/-"
+    },
+    {
+        "id":7,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/computer/u/u/k/-original-imagmxuravjcmdwu.jpeg?q=70",
+        "title":"Infinix INBook Y1 Plus",
+        "desc":"This is a new model",
+        "price":"27,990/-"
+    },
+    {
+        "id":8,
+        "image":"https://rukminim1.flixcart.com/image/832/832/ksez24w0/computer/u/k/x/rmnb1001-thin-and-light-laptop-realme-original-imag5zhghb8uukhc.jpeg?q=70",
+        "title":"realme Book (Slim)",
+        "desc":"This is a new model",
+        "price":"46,990/-"
+    },
+    {
+        "id":9,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/computer/n/z/v/-original-imagjyc6agjdzaqn.jpeg?q=70",
+        "title":"acer Aspire 7Ryzen Hexacore",
+        "desc":"This is a new model",
+        "price":"52,990/-"
+    },
+    {
+        "id":10,
+        "image":"https://rukminim1.flixcart.com/image/832/832/kuyf8nk0/computer/9/b/w/mkgp3hn-a-thin-and-light-laptop-apple-original-imag7yznxyp6twt9.jpeg?q=70",
+        "title":"APPLE 2021 MacBook Pro M1",
+        "desc":"This is a new model",
+        "price":"2,12,894/-"
+    },
+    {
+        "id":11,
+        "image":"https://rukminim1.flixcart.com/image/832/832/ktx9si80/computer/t/u/g/16-c0141ax-gaming-laptop-hp-original-imag7664ge8hhtbf.jpeg?q=70",
+        "title":"HP OMEN Ryzen 7 Octa Core",
+        "desc":"This is a new model",
+        "price":"88,499/-"
+    },
+    {
+        "id":12,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/computer/l/g/i/-original-imagjfgyha7agymv.jpeg?q=70",
+        "title":"Infinix INBook X2 Plus",
+        "desc":"This is a new model",
+        "price":"47,990/-"
+    }
+]

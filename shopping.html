@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping </title>
+    <link rel="stylesheet" href="./bootstrap.css">
+    <link rel="stylesheet" href="./shopping.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&family=Sevillana&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <nav >
+        <!-- Brand/logo -->
+        <a class="navbar-brand" href="./shopping.html">
+          <img src="./images/shoppinglogo.jpg" alt="logo" style="width:50px;height: 50px; border-radius: 50%;">
+        </a>
+        
+        <!-- Links -->
+        <ul class="display">
+          <li class="">
+            <a class="nav-link" href="./shopping.html">home</a>
+          </li>
+          <li class="">
+            <a class="nav-link" href="#">about</a>
+          </li>
+          <li class="">
+            <a class="nav-link" href="./contact.html">contact</a>
+          </li>
+        </ul>
+
+        <div class="search-box">
+            <input type="text" list="search" id="input" placeholder="Search your favourate things...">
+        <span id="scope"><i class="fa-solid fa-magnifying-glass"></i></span>
+        </div>
+        <span id="hamberger"><i class="fas fa-bars"></i></span>
+        <datalist id="search">
+           <a href="#shoes"> <option value="shoes" ></a>
+           <a href="shirts"> <option value="Bluetooths" ></a>
+           <a href="#mobiles"> <option value="Mobiles" ></a>
+           <a href="#sunglases"> <option value="sunglases" ></a>
+           <a href="#watches"> <option value="Watches" ></a>
+           <a href="#Earbuds"> <option value="Earbuds" ></a>
+           <a href="#laptops"> <option value="Laptops" ></a>
+        </datalist>
+      </nav>
+      <a href="./shopping.html" id="back"><i class="fa-sharp fa-solid fa-chevron-left"></i></a>
+      
+      <div class="products"></div>
+      <div id="buy-container"></div>
+      <h1 id="else"></h1>
+
+<!-- slider -->
+      <div class="slider">
+        <span id="left-btn"><i class="fa-sharp fa-solid fa-caret-left"></i></span>
+        <span id="right-btn"><i class="fa-sharp fa-solid fa-caret-right"></i></span>
+        <div class="img-container">
+          <p  id="slidetext"></p>
+          <img src="./images/img4.jpg" alt="" id="img">
+        </div>
+        
+      </div>
+
+<!-- product components -->
+      <div class="product-components">
+        <div class="watch-component">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/b/r/s/-original-imagkfm8xkgzkw37.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/e/b/m/-original-imaghqqtuzvmdmy8.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/i/k/c/-original-imaghudxyucmrmdb.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/v/s/a/-original-imaggp4yz8chctah.jpeg?q=70" alt="">
+          <div><input type="button" value="See more" style="width:100%" id="seewatch" class="see"></div>
+        </div>
+
+        <div class="laptop-component">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/computer/n/z/v/-original-imagjyc6agjdzaqn.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/kuyf8nk0/computer/9/b/w/mkgp3hn-a-thin-and-light-laptop-apple-original-imag7yznxyp6twt9.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/computer/l/g/i/-original-imagjfgyha7agymv.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/keaaavk0/computer/c/q/t/lenovo-na-thin-and-light-laptop-original-imafuzt873zgp9xe.jpeg?q=70" alt="">
+          <div><input type="button" value="See more" style="width:100%" id="seelaptop" class="see"></div>
+        </div>
+        <div class="mobile-component">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/9/n/h/galaxy-m04-sm-m045f-samsung-original-imagh8ghfyxznzyu.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/l0bbonk0/shopsy-mobile/p/k/x/-original-imagc4qj5ejywxnv.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/l4yi7bk0/mobile/n/g/z/-original-imagfqpypb35uanj.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/ktbu6q80/mobile/2/m/c/8s-5g-rmx3381-realme-original-imag6zhgghpzegzp.jpeg?q=70" alt="">
+          <div><input type="button" value="See more" style="width:100%" id="seemobile" class="see"></div>
+        </div>
+        <div class="earbuds-component">
+          <img src="https://rukminim1.flixcart.com/image/832/832/l572ufk0/headphone/x/o/p/air-3-neo-realme-original-imagfxcbkt8rmqbg.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/l4d2ljk0/headphone/h/q/a/nord-buds-oneplus-original-imagf9uzngv7dahq.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/headphone/s/t/j/-original-imagn8vha6gzqsrf.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/kp5sya80/headphone/i/g/u/air-buds-mini-truly-wireless-noise-original-imag3ghzj8yees2c.jpeg?q=70" alt="">
+          <div><input type="button" value="See more" style="width:100%" id="see-earbuds" class="see"></div>
+        </div>
+        <div class="shoes-component">
+          <img src="https://rukminim1.flixcart.com/image/832/832/kg9qbgw0-0/shoe/4/d/f/g-40777cma-39-woodland-olive-green-original-imafwjuskfy4nn3c.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/kklhbbk0/shoe/1/c/z/6-sm-500-6-sparx-n-blue-r-blue-original-imafzwmwdpzpeajv.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/k3erngw0/shoe/s/u/b/25319103-9-u-s-polo-assn-off-white-original-imaffgkfmmjuzsgw.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/z/d/k/-original-imagkx6hr8ndvevf.jpeg?q=70" alt="">
+          <div><input type="button" value="See more" style="width:100%"id="seeshoes" class="see"></div>
+        </div>
+        <div class="bluetooth-component">
+          <img src="https://rukminim1.flixcart.com/image/832/832/k4x2du80/speaker/mobile-tablet-speaker/c/z/f/jbl-flip-essential-original-imafnpuhahqwvwhw.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/speaker/x/m/4/-original-imagk5c3uxvrpuxg.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/kc3p30w0/speaker/mobile-tablet-speaker/r/m/r/stone-190-stone-190f-boat-original-imaftap4nxvrftsf.jpeg?q=70" alt="">
+          <img src="https://rukminim1.flixcart.com/image/832/832/l2jcccw0/speaker/t/m/k/-original-imagdv2zjmshecrg.jpeg?q=70" alt="">
+          <div><input type="button" value="See more" style="width:100%"id="seebluetooth" class="see"></div>
+        </div>
+        
+      </div>
+
+
+
+      <footer class="footer">
+
+        <h1>Follow us on </h1>
+       
+          <div class="social-links">
+          <a href="https://web.whatsapp.com/" class="fa-brands fa-whatsapp" id="whatsapp"></a>
+          <a href="https://www.instagram.com/" class="fa-brands fa-instagram" id="insta"></a>
+          <a href="https://www.youtube.com/" class="fa-brands fa-youtube" id="youtube"></a>
+          <a href="https://www.facebook.com/" class="fa-brands fa-facebook" id="fb"></a>
+          </div>
+
+   
+      </footer>
+      <script src="./shopping.js"></script>
+      
+</body>
+</html>

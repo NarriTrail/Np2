@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/9/n/h/galaxy-m04-sm-m045f-samsung-original-imagh8ghfyxznzyu.jpeg?q=70",
+        "title":"Samsung Galaxy M04",
+        "desc":"It's a new model in Samsung",
+        "price":"9,499"
+     
+    },
+
+    {
+        "id":2,
+        "image":"https://rukminim1.flixcart.com/image/832/832/l0bbonk0/shopsy-mobile/p/k/x/-original-imagc4qj5ejywxnv.jpeg?q=70",
+        "title":"Realme Narzo50",
+        "desc":"It's a new model in real me ",
+        "price":"17,999"
+     
+    },
+
+    {
+        "id":3,
+        "image":"https://rukminim1.flixcart.com/image/832/832/l4yi7bk0/mobile/n/g/z/-original-imagfqpypb35uanj.jpeg?q=70",
+        "title":"Lava Blaze 5G",
+        "desc":"It's a old model in Lava",
+        "price":"13,499"
+     
+    },
+
+    {
+        "id":4,
+        "image":"https://rukminim1.flixcart.com/image/832/832/k2jbyq80pkrrdj/mobile-refurbished/g/a/v/3i-32-b-rmx1827-realme-3-original-imafgbbkrgurv9kj.jpeg?q=70",
+        "title":"Realme 3i",
+        "desc":"It's a old model in real me",
+        "price":"10,499"
+     
+    },
+
+    {
+        "id":5,
+        "image":"https://rukminim1.flixcart.com/image/832/832/ktbu6q80/mobile/2/m/c/8s-5g-rmx3381-realme-original-imag6zhgghpzegzp.jpeg?q=70",
+         "title":"Realme 8s",
+         "desc":"its a new model in real me ",
+         "price":"19549"
+
+     
+    },
+
+    {
+        "id":6,
+        "image":"https://rukminim1.flixcart.com/image/832/832/l0fm07k0/mobile/1/k/g/-original-imagc7ukmgugpdfy.jpeg?q=70",
+        "title":"Realme C35",
+        "desc":"its a new model in real me ",
+        "price":"11756"
+     
+    },
+
+    {
+        "id":7,
+        "image":"https://rukminim1.flixcart.com/image/832/832/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70",
+        "title":"Realme 9i",
+        "desc":"its a new model in real me ",
+        "price":"13,679"
+     
+    },
+
+    {
+        "id":8,
+        
+        "image":"https://rukminim1.flixcart.com/image/832/832/ktlu9ow0/mobile/p/c/u/c25y-rmx3265-realme-original-imag6wmjczbfhk4w.jpeg?q=70",
+        "title":"RealmeC 25Y",
+        "desc":"its a new model in real me ",
+        "price":"11,449"
+     
+    },
+
+    {
+        "id":9,
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/v/j/h/-original-imagkp8fvenrrkth.jpeg?q=70",
+        "title":"Realme 10Pro",
+        "desc":"its a new model in real me ",
+        "price":"19,990"
+     
+    },
+    {
+        "id":10,
+        "image":"https://rukminim1.flixcart.com/image/832/832/k6zda4w0/mobile/h/y/8/realme-x50-pro-rmx2076-original-imafpbbvbwfcpz2r.jpeg?q=70",
+        "title":"Realme X50",
+        "desc":"its a new model in real me ",
+        "price":"27,999"
+
+    },
+    {
+        "id":11,
+        "image":"https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/mobile/4/8/h/-original-imagfggrvjdqsrtx.jpeg?q=70",
+        "title":"Realme C30s",
+        "desc":"its a new model in real me ",
+        "price":"8,605"
+
+    },
+    {
+        "id":12,
+        "image":"https://rukminim1.flixcart.com/image/832/832/ktbu6q80/mobile/2/m/c/8s-5g-rmx3381-realme-original-imag6zhgghpzegzp.jpeg?q=70",
+        "title":"Realme 8s 5G",
+        "desc":"its a new model in real me ",
+        "price":"19,650"
+
+    }
+
+
+]
